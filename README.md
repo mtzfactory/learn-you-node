@@ -12,8 +12,9 @@ Para instalar este proyecto:
 $ git clone https://github.com/mtzfactory/learn-you-node.git
 $ cd learn-you-node
 $ npm install
-$ npm start
 ```
+
+Una vez instalado, seguir las instrucciones de _learnyounode_
 
 #### SkylabCoders Academy - Full Stack Web Development Bootcamp
 
