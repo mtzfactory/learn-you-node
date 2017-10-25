@@ -4,6 +4,17 @@
 
 Aprendido *Node.js* desde la base 😄
 
+### INSTALACION.
+
+Para instalar este proyecto:
+
+```bash
+$ git clone https://github.com/mtzfactory/learn-you-node.git
+$ cd learn-you-node
+$ npm install
+$ npm start
+```
+
 #### SkylabCoders Academy - Full Stack Web Development Bootcamp
 
 [learnyounode]: https://github.com/workshopper/learnyounode
