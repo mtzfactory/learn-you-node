@@ -14,7 +14,7 @@ $ cd learn-you-node
 $ npm install
 ```
 
-Una vez instalado, seguir las instrucciones de _learnyounode_
+Una vez instalado, seguir las instrucciones de _learnyounode_.
 
 #### SkylabCoders Academy - Full Stack Web Development Bootcamp
 
