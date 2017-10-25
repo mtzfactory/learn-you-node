@@ -1,0 +1,17 @@
+{
+  "name": "learn-you-node",
+  "version": "1.0.0",
+  "description": "Learnyounode solutions",
+  "main": "index.js",
+  "dependencies": {
+    "bl": "^1.2.1",
+    "strftime": "^0.10.0",
+    "through2-map": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Martínez",
+  "license": "ISC"
+}
